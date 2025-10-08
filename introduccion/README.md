@@ -21,7 +21,6 @@
 - Para obtener recursos
     - [Baeldung](https://github.com/baeldung)
     - [hacking](https://github.com/The-Art-of-Hacking/h4cker)
-    - [Curso de Bash](https://github.com/Devsebastian44/Curso-de-Bash)
     - [Curso de Python](https://github.com/midudev/curso-python)
 
 - Para usar un hosting gratuito con github.io
