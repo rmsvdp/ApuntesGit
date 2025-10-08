@@ -6,7 +6,7 @@ Turorial de git, con ejercicios y enlaces a recursos
 
 ### 1 [Introducción](/introduccion/README.md)
 
-### 2 [Practicas](/practicas/README.md)
+### 2 [Ejercicios y Practicas](/practicas/README.md)
 
 ### 3 Recursos
 
