@@ -6,8 +6,8 @@ Turorial de git, con ejercicios y enlaces a recursos
 
 ### 1 [Introducción](/introduccion/README.md)
 
-### 2 Utilización : Buenas práctias
-WIP
+### 2 [Utilización](BuenasPracticas.md)
+
 ### 3 [Ejercicios y Practicas](/practicas/README.md)
 
 ### 4 Recursos
