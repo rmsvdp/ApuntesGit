@@ -6,9 +6,11 @@ Turorial de git, con ejercicios y enlaces a recursos
 
 ### 1 [Introducción](/introduccion/README.md)
 
-### 2 [Ejercicios y Practicas](/practicas/README.md)
+### 2 Utilización : Buenas práctias
+WIP
+### 3 [Ejercicios y Practicas](/practicas/README.md)
 
-### 3 Recursos
+### 4 Recursos
 
 -  [Comandos](/comandos/README.md)
 -  [Graficamente ver commit y branches](https://git-school.github.io/visualizing-git/)
