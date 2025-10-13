@@ -7,4 +7,8 @@
 
 ## Con Remoto
 
+![Estados remotos](/assets/git_states_remoto.png)
+
+# Actualización de los repositorios
+
 ![Estados remotos](/assets/repositorios.png)
