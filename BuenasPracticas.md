@@ -6,6 +6,8 @@ Una buena práctica es un conjunto de proedimientos que da un resultado acpetabl
 Sin entrar en técnicas más complejas para coordinación de equipos y dependiendo además del tamaño de la aplicación, lo más normal es mantener una rama principal (main/master) de la que vamos sacando
 ramas para las funcionalidades (features) principales.
 
+![Gestión de Ramas](/assets/git-flow.png)
+
 Esto permite ir desarrollando en paralelo y posteriormente incoporar los resultados a la rama principal
 Se suele también abrir ramas específicas para resolver bugs que se cierran en la rama donde se localizan o en la rama principal.
 Este gráfico resume este tipo de técnicas.
