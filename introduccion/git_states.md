@@ -7,4 +7,4 @@
 
 ## Con Remoto
 
-![Estados remotos](/assets/git_states_remoto.png)
+![Estados remotos](/assets/repositorios.png)
