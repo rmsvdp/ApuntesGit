@@ -4,7 +4,9 @@
 
 * Diferenciar entre git y [github](github.md), son cosas distintas.
 
-* [Estado](git_states.md) de un archivo en GIT
+* Es muy **importante** entender los estados por los que pasa un archivo y como se
+  sincronizan los disintos respositorios (Local / Remoto).
+  [Estado archivos y repos](git_states.md) 
 
 * Podemos documentar nuestro repositorio con archivos .md, mediante lenguaje [MARKDOWN](markdown.md) 
 
