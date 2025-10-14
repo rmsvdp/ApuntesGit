@@ -1,4 +1,4 @@
-# Trabajo en Equipo <img src="/assets/github.png" width="58" height="56"/>
+# Trabajo en Equipo 
 
 Tenemos dos alternativas:
 
