@@ -1,21 +1,20 @@
-## 馃懃 Escenario
+## Planteamiento del escenario
 
 Utilizaremos un proyecto donde trabajan dos desarrolladores:
 
-- **Desarrollador A (rmsvdp)**: Crea el repositorio y ser谩 el encargado de aprobar cambios.
+- **Desarrollador A (rmsvdp)**: Crea el repositorio y sería el encargado de aprobar cambios.
 - **Desarrollador B (race8086)**: Contribuye al desarrollo.
 
 ---
 
-## 馃Л Objetivo
+## 🥇 Objetivo
 
-El proyecto se desarrollar谩 de forma conjunta, pero el Desarrollador B propone cambios sin modificar directamente el c贸digo principal (`main`).  
-El Desarrollador B, deber谩 hacer un FORK del proyecto principal y trabajar con 茅l.
-Para eso se usa un **Pull Request (PR)**.
+El proyecto se desarrolla de forma conjunta, pero el Desarrollador B propone cambios sin modificar directamente el código principal (`main`).  
+El Desarrollador B, debería hacer un **fork** del proyecto principal y trabajar con él. Cuando esté listo para subir el nuevo código, hará uso de la opción  Pull Request de gitHub.
 
 ---
 
-## :gear: Flujo de Trabajo
+## :gear: Ejemplo de Flujo de Trabajo
 
 ### 1. Inicio del desarrollo
 1. Desarrollador A crea el proyecto, por ejemplo: `teamwork`.
