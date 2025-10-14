@@ -19,7 +19,7 @@ El Desarrollador B, debería hacer un **fork** del proyecto principal y trabajar
 ### 1. Inicio del desarrollo
 1. Desarrollador A crea el proyecto, por ejemplo: `teamwork`.
 2. Marca **Public** y crea el repositorio con un `README.md`.
-3. Desarrollador B , cra **Fork** desde el repositorio del Desarrollador A
+3. Desarrollador B , crea un **Fork** desde el repositorio del Desarrollador A
 4. Clona su fork localmente:
    ```bash
    git clone https://github.com/race8086/teamwork.git
@@ -52,17 +52,17 @@ El Desarrollador B, debería hacer un **fork** del proyecto principal y trabajar
 
 ### 4. Crear el Pull Request
 1. En GitHub, entra al repositorio  (`race8086/teamwork`).
-2. Aparecerá un mensaje: **Compare & pull request** 鈫?clic.
+2. Aparecerá un mensaje: **Compare & pull request** 
 3. Verifica EL SENTIDO: (`race8086:nueva-rama`) hacia `rmsvdp:main`.
-4. Escribe un t铆tulo y descripci贸n.
+4. Escribe un título y descripción.
 5. Haz clic en **Create pull request** 
 
 ---
 
 ### 6. Desarrollador A revisa el Pull Request
-1. Entra al repositorio original y abre la pesta帽a **Pull Requests**.
+1. Entra al repositorio original y abre la pestaña **Pull Requests**.
 2. Revisa los cambios, comenta o aprueba.Click en el commit y seguir indicaciones
-3. Si todo est谩 bien, clic en **Merge pull request** 鈫?**Confirm merge**.
+3. Si todo está bien, clic en **Merge pull request** y despues se confirma : **Confirm merge**.
 
 ---
 
