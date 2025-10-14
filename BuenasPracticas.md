@@ -1,7 +1,4 @@
-# Acerca de esta sección
-Una buena práctica es un conjunto de proedimientos que da un resultado acpetable para resolver un derteminado problema
-
-# Técnica estándar de programación
+# Técnicas más usadas de programación
 
 Sin entrar en técnicas más complejas para coordinación de equipos y dependiendo además del tamaño de la aplicación, lo más normal es mantener una rama principal (main/master) de la que vamos sacando
 ramas para las funcionalidades (features) principales.
