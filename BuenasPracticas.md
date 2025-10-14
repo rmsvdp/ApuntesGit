@@ -9,14 +9,14 @@ Esto permite ir desarrollando en paralelo y posteriormente incoporar los resulta
 Se suele también abrir ramas específicas para resolver bugs que se cierran en la rama donde se localizan o en la rama principal.
 Este gráfico resume este tipo de técnicas.
 
-# Versionado
+# Generación de Versiones
 
-Ciertos momentos del desarrollo suponen la liberación de un determinado módulo o versión de la aplicación, para ello git ofrece el comando tag,
+Ciertos momentos del desarrollo suponen la liberación de un determinado módulo o versión de la aplicación, para ello git ofrece el comando **TAG**,
 que permite etiquetar un determinado COMMIT
 
 Si se utiliza Github como respositorio de la nube, este dispone de una sección especial denominada releases, que permiten, de una vez empaquetar
 fuentes y ejecutables.
-Para generar una release, es preciso utilizar un TAG previamente creado o crearlo en el momento.
+Para generar una **RELEASE**, es preciso utilizar un TAG previamente creado o crearlo en el momento.
 
 # Consideraciones
 
