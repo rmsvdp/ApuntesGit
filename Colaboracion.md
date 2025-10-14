@@ -31,7 +31,7 @@ Github dispone de un circuito de peticiones y aprobaciones de código: PullReque
 Existe un propietario del repositorio que debe aprobar y validar todas las contribuciones del resto del equipo.
 De esta manera se mininizan los riesgos de conflictos y se supervisa mejor la planificación.
 
-- Para equipos medios / grandes<img src="/assets/collab.png" width="480" height="120"/>
+- Para equipos medios / grandes<img src="/assets/prstat.png" width="620" height="300"/>
 - El colobarorador nunca toca la rama del desarrollo principal
 - Sólo las personas con permisos deniegan/aprueban los cambios
   
