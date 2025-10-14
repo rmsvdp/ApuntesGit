@@ -7,7 +7,8 @@ Ejercicios:
 - [ejercicio 3 acceso a github](practica3.md)
 - [ejercicio 4 .gitignore, Gist](practica4.md)
 - [ejercicio 5 Tags y Releases](practica6.md)
-- 
+- [ejercicio 6 Pull Request](practica7.md)
+
 Prácticas :
 
 - [practica 1 git local resolucion de conclictos entre ramas](practica2.md) 
