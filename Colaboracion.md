@@ -8,6 +8,8 @@ Todos los miembros del equipo tiene acceso total al control de versiones
 del proyecto. Se recomienda organizar reuniones y consolidar los fuentes
 de manera periódica y ordenada.
 
+<img src="/assets/collab.png" width="480" height="270"/>
+
 - Para equipos pequeños.
 - Los desarrolladores se conocen
 - **EL colaborador puede tocar la rama principal!!**
